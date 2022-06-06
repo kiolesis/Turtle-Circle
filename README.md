@@ -1,5 +1,8 @@
-# Biblioteka żółwia
+# Biblioteka żółwia (Turtle library)
 Repozytorium zawierające udokumentowany projekt oparty na bibliotece Turtle.
--Autor: Kiolesis
 
-!xD
+### Zależności (Dependencies):
+|turtle
+
+### Zrzuty ekranu (Screenshots):
+[turtle.png]
