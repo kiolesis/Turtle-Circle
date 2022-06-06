@@ -2,9 +2,9 @@
 Repozytorium zawierające udokumentowany projekt oparty na bibliotece Turtle. (Repositorium containing documented project based on Turtle library)
 
 ### Zależności (Dependencies):
-'''python
+```python
 from turtle import *
-'''
+```
 
 
 ### Zrzuty ekranu (Screenshots):
