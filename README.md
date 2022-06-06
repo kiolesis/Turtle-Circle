@@ -1,5 +1,5 @@
 # Biblioteka żółwia (Turtle library)
-PL: Repozytorium zawierające udokumentowany projekt oparty na bibliotece Turtle.
+PL: Repozytorium zawierające udokumentowany projekt oparty na bibliotece Turtle.\n
 ENG: Repositorium containing documented project based on Turtle library)
 
 ### Zależności (Dependencies):
