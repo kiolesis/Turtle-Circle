@@ -5,4 +5,4 @@ Repozytorium zawierające udokumentowany projekt oparty na bibliotece Turtle. (R
 turtle
 
 ### Zrzuty ekranu (Screenshots):
-[picture_turtle.png]
+[[picture_turtle.png](https://github.com/kiolesis/Turtle-Circle/blob/main/picture_turtle.png)]
