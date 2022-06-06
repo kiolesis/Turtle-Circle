@@ -2,7 +2,7 @@
 Repozytorium zawierające udokumentowany projekt oparty na bibliotece Turtle.
 
 ### Zależności (Dependencies):
-|turtle
+@turtle
 
 ### Zrzuty ekranu (Screenshots):
 [turtle.png]
