@@ -2,10 +2,12 @@
 PL: Repozytorium zawierające udokumentowany projekt oparty na bibliotece Turtle.
 ENG: Repositorium containing documented project based on Turtle library)
 
+
 ### Zależności (Dependencies):
 ```python
 from turtle import *
 ```
+
 
 ### Kod źródłowy (Source code):
 ```python
@@ -46,6 +48,7 @@ showturtle()
 
 done()
 ```
+
 
 
 ### Zrzuty ekranu (Screenshots):
