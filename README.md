@@ -1,5 +1,5 @@
 # Biblioteka żółwia (Turtle library)
-PL: Repozytorium zawierające udokumentowany projekt oparty na bibliotece Turtle.\n
+PL: Repozytorium zawierające udokumentowany projekt oparty na bibliotece Turtle.
 ENG: Repositorium containing documented project based on Turtle library)
 
 ### Zależności (Dependencies):
@@ -49,4 +49,4 @@ done()
 
 
 ### Zrzuty ekranu (Screenshots):
-[[picture_turtle.png](https://github.com/kiolesis/Turtle-Circle/blob/main/picture_turtle.png)]
+![picture_turtle](https://user-images.githubusercontent.com/78695820/172213740-d9face27-ed7f-4ef9-8ae0-8a65ff8f3339.png)
